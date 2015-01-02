@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Munich Arduino & Co]]></title>
+  <subtitle><![CDATA[Electronic Tinkerer Club]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://munich-aug.de/"/>
+  <updated>2015-01-02T23:09:14.044Z</updated>
+  <id>http://munich-aug.de/</id>
+  
+  <author>
+    <name><![CDATA[Munich Arduino Meetup]]></name>
+    <email><![CDATA[mulder@mtpartners.de]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Results from December Survey]]></title>
+    <link href="http://munich-aug.de/2014/12/16/Results-from-Survey/"/>
+    <id>http://munich-aug.de/2014/12/16/Results-from-Survey/</id>
+    <published>2014-12-16T19:16:20.000Z</published>
+    <updated>2014-12-16T20:00:34.000Z</updated>
+    <content type="html"><![CDATA[<p>Here are the results from last week’s survey about the first 6 months of the Arduino &amp; Co. The survey was sent to <a href="http://www.meetup.com/Munchen-Arduino-Meetup/members/" target="_blank" rel="external">our 120 members right now</a> and we had a small 10% respond rate.</p>
+<h1 id="What_topics_at_Arduino_&amp;_Co_do_interest_you_most?">What topics at Arduino &amp; Co do interest you most?</h1>
+<p><img src="/images/dec/survey2.png"></p>
+<p>So, interestingly, the meetup members mostly enjoy classical talks about microcontoller basics or projects.</p>
+<h1 id="What_is_the_best_place_for_the_meetup?">What is the best place for the meetup?</h1>
+<p>The most popular locations arte the <a href="http://www.fablab-muenchen.de/" target="_blank" rel="external">Munich FabLab</a> and <a href="http://munichmakes.de" target="_blank" rel="external">MCSM/MunichMakes</a>. In contrast to most web meetups, hacker spaces seem to provide a better context than companies.</p>
+<p><img src="/images/dec/survey1.png"></p>
+<h1 id="What_discoveries_did_you_make_at_the_meetup?">What discoveries did you make at the meetup?</h1>
+<p><img src="/images/dec/survey3.png"></p>
+<p>Currently, the meetup provides most value in combining online and offline worlds. So, maybe the meetup should provide more pointers to online conent. Or, as with this website, further develop online and offline content. Last, there was a remark that teaching Arduino to kids should play an important role.</p>
+<h1 id="Take_part-">Take part.</h1>
+<p>The survey is still open for a while. It would be great if you <a href="https://de.surveymonkey.com/r/25G8YQ2" target="_blank" rel="external">take part too</a>. Thanks in any case!</p>
+]]></content>
+    
+    
+      <category term="general" scheme="http://munich-aug.de/tags/general/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[December meetup]]></title>
+    <link href="http://munich-aug.de/2014/12/06/December-meetup/"/>
+    <id>http://munich-aug.de/2014/12/06/December-meetup/</id>
+    <published>2014-12-06T11:32:39.000Z</published>
+    <updated>2014-12-16T19:54:16.000Z</updated>
+    <content type="html"><![CDATA[<p>The X-mas hacking sessions began with fast food. “Fast”, because we went straight into hacking.</p>
+<p>Thomas showed his progress with the software behind his <a href="http://www.roboshock.de/" target="_blank" rel="external">Roboshock project</a>, a bi-pedal robotics project. He has built an impressive UI to transform raw deta from different sensors into artificial “senses”. Besides, he recently started on another project, a blood pressure sensor based on <a href="http://opencv.org/" target="_blank" rel="external">OpenCV</a>.</p>
+<p>At a different table, <a href="https://twitter.com/goyapa" target="_blank" rel="external">Michael</a> was working on <a href="https://github.com/rwaldron/johnny-five" target="_blank" rel="external">J5</a> for the <a href="http://arduino.cc/en/Main/ArduinoBoardYun?from=Products.ArduinoYUN" target="_blank" rel="external">Arduino Yun</a>. While the Arduino community seems to be rather silent about this combination, there is a nice how-to of combining <a href="http://cylonjs.com/documentation/platforms/yun/" target="_blank" rel="external">Cylon.js with the Arduino Yun</a>.</p>
+<p>Next, Kresimir and me were working on a basic starter project: An Arduino based alarm clock. Since I forgot my DS1307 RTC chip, we “simulated” the time with counters on the Atmega328. A separate blog post on the clock will follow. At this point, it is maybe interesting to mention the <a href="https://tiny-circuits.com/tiny-shield-rtc.html" target="_blank" rel="external">Tinyduino RTC shield</a>. </p>
+<p>Measuring time with an Arduino is rather easy, so, we progressed towards mounting an <a href="http://www.elecfreaks.com/5695.html" target="_blank" rel="external">old Nokia 5110 display</a> on an Arduino. This was great fun too, and is a topic for a different blog post too. By the way, if you are interested in professional Drone technologies, take a look at <a href="http://www.asctec.de/en/" target="_blank" rel="external">Ascending Technologies</a> where Kresi works.</p>
+<p>Then, we had the pleasure to welcome <a href="http://make-munich.de/team/" target="_blank" rel="external">Martin Laarmann of the Munich Make team</a>. After a great Make Munich 2014, Martin has started already preparing Make Munich 2015. Martin also mentioned the <a href="http://www.aevum-mechatronik.de/modularis/" target="_blank" rel="external">Modularis</a> board (made in Munich), and a hacking project to make dispenser machines more fun.</p>
+<p><img src="/images/dec/display.png"></p>
+]]></content>
+    
+    
+      <category term="meetup" scheme="http://munich-aug.de/tags/meetup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[November meetup]]></title>
+    <link href="http://munich-aug.de/2014/11/24/November-meetup/"/>
+    <id>http://munich-aug.de/2014/11/24/November-meetup/</id>
+    <published>2014-11-24T22:56:54.000Z</published>
+    <updated>2014-11-28T20:36:45.000Z</updated>
+    <content type="html"><![CDATA[<p>The november meetup began rather quiet. The <a href="http://mcsm.divshot.io" target="_blank" rel="external">MCSM</a> hackerspace may be difficult to find, if you visit it the first time.  Yet, a really nice group of people finally found their way.</p>
+<p>The first talk was given by <a href="http://www.meetup.com/Munchen-robotics-enthusiasts/" target="_blank" rel="external">Andrey Nechypurenko</a>, organizer of the <a href="http://www.meetup.com/Munchen-robotics-enthusiasts/" target="_blank" rel="external">Munich Robotics Enthusiasts</a> meetup and maker of robots. Andrey impressively showed his experiments and developments of the <a href="http://www.robotee.com/index.php/robot-projects/veterobot-project/" target="_blank" rel="external">Veterobot</a> project.</p>
+<p><img src="/images/nov_thumbs_1.jpg"><br><img src="/images/nov_thumbs_2.jpg"><br><img src="/images/nov_thumbs_3.jpg"></p>
+<p>While the robot’s heart is a <a href="http://beagleboard.org/" target="_blank" rel="external">Beagleboard</a> from TI, a lot of topics relate to microcontrollers. For example, how do you talk with multiple sensors? (I2C.) How to manage electro magnetic radiation? How to control and compensate for differences of 4 wheels? A PID controller.</p>
+<p>Besides the control challenages and computing questions, the project has solved a number of problems around 3D construction. Andrey mentioned that 3D design has its own challenges, and that 3D printers offer new opportunities to solve those.</p>
+<p>More information of Andrey’s project can be found here: <a href="http://bit.ly/1Ci8Uys" target="_blank" rel="external">slides</a>­and <a href="http://veterobot.org" target="_blank" rel="external">on the website</a>.­</p>
+<p>We had one more demo of a robot from <a href="https://twitter.com/greatsage" target="_blank" rel="external">Jonathan Prince</a>. His robot was completely Arduino based, with a motor shield and some ultra sonic sensors.</p>
+<p><img src="/images/nov_thumbs_4.jpg"></p>
+<p>A second talk was given by Thomas who is looking for new ways to raise healthy bee cultures. Munich has a large community of beekeepers. And Arduino might help here. Mites heavily threat bee cultures, and it would be nice to avoid chemical bombs to kill the mites. The slides from Thomas’ presentation are <a href="/assets/2014-11-24-arduino_bienen.pdf">here</a>.</p>
+<p>We discussed various ways how Arduino could control heat. This discussion sparked Carlos to show his latest experiments of Arduino based cooking.</p>
+<p>After the talks, there was again some time for networking. Samuele showed photos of his Arduino powered X-mas tree from Italy last year. And Eymen and myself were hacking a bit the serial port for a bluetooth powered LED project. </p>
+<p>All in all, a very interesting meetup again.</p>
+]]></content>
+    
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[October Meetup - Hello World with Arduino]]></title>
+    <link href="http://munich-aug.de/2014/09/28/october-meetup/"/>
+    <id>http://munich-aug.de/2014/09/28/october-meetup/</id>
+    <published>2014-09-28T11:56:02.000Z</published>
+    <updated>2014-09-28T11:57:00.000Z</updated>
+    <content type="html"><![CDATA[<p>Arduino is great to control physical experiences such as light and motion. Actually, putting LEDs in a breadboard is the easiest way to say “hello world” with electronics.</p>
+<p>While electronics can be fun to some (esp. for those, who like to say “soldering is my favorite debugging trick”), Arduino can be a nice vehicle for software experiments too. So, talking to Arduino with different programming languages, such as JavaScript and Ruby is another goal for this meetup.</p>
+<p>We will try to have some time for you to present your problems and projects with Arduino too.</p>
+<p>Agenda:</p>
+<p>19:00) Social</p>
+<p>19:30) Talk 1</p>
+<p>20:00) Build and play</p>
+<p>21:00) Lightning talks and project feedback </p>
+<p>22:00) end</p>
+<p>PS Thanks to Linda and Netlight to support us with hacking space for this meetup, as well as lowering the entry barrier to Munich’s future <a href="http://en.wikipedia.org/wiki/Limor_Fried" target="_blank" rel="external">http://en.wikipedia.org/wiki/Limor_Fried</a></p>
+]]></content>
+    
+    
+      <category term="agenda" scheme="http://munich-aug.de/tags/agenda/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Meetup 3 - Projects]]></title>
+    <link href="http://munich-aug.de/2014/09/08/Meetup-3/"/>
+    <id>http://munich-aug.de/2014/09/08/Meetup-3/</id>
+    <published>2014-09-08T17:15:00.000Z</published>
+    <updated>2014-09-08T06:34:20.000Z</updated>
+    <content type="html"><![CDATA[<p>Agenda</p>
+<ul>
+<li><a href="http://mcsm.divshot.io/" target="_blank" rel="external">MCSM</a></li>
+<li>CNC and Arduino</li>
+<li><a href="http://www.byteyourlife.com/category/raspberry-pi-ferngesteuertes-auto" target="_blank" rel="external">RC cars</a></li>
+<li><a href="https://spreadsheets.google.com/pub?key=rmNr4Eeren8jBG7MXfHYxsQ&amp;output=html" target="_blank" rel="external">Measurement equipment</a></li>
+<li><a href="http://blog.farsinotare.com/2014/07/30/beyond-the-breadboard/" target="_blank" rel="external">Making a PCB</a></li>
+<li><a href="https://github.com/Goyapa/mongoduinometeor" target="_blank" rel="external">Realtime Meteor App with Arduino and Nunchuk</a></li>
+</ul>
+]]></content>
+    
+    
+      <category term="meetup" scheme="http://munich-aug.de/tags/meetup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Meetup 2 - Analog Signals]]></title>
+    <link href="http://munich-aug.de/2014/08/02/Meetup-2/"/>
+    <id>http://munich-aug.de/2014/08/02/Meetup-2/</id>
+    <published>2014-08-02T07:02:50.000Z</published>
+    <updated>2014-09-08T06:17:09.000Z</updated>
+    <content type="html"><![CDATA[<p>Agenda:</p>
+<p>After a first meetup with an overview on different boards and kits, let’s explore more the analog Signals of an Arduino. Analog signals make an Arduino different from e.g.  a Raspberry PI.</p>
+<p>As a special feature of this meetup, we will get a talk by the founders of the RedPitaya open-instruments platform.</p>
+<p>We can  have more 1-2 warming up talks, and explore projects in groups with some components in the second round.</p>
+<ul>
+<li>Component Box from <a href="https://www.aldi-sued.de/de/angebote/angebote-ab-montag-11-august/detailseite-kw33-mo/ps/p/workzone-profi-organizer-1/" target="_blank" rel="external">Aldi</a></li>
+<li>Component Box at <a href="http://www.amazon.de/dp/B007JEL694" target="_blank" rel="external">Amazon</a> and <a href="http://www.amazon.de/gp/product/B000QCZT8U" target="_blank" rel="external">another</a></li>
+<li>Component Box at <a href="http://www.ebay.de/itm/400699693418?_trksid=p2059210.m2749.l2649&amp;ssPageName=STRK%3AMEBIDX%3AIT" target="_blank" rel="external">Ebay</a></li>
+<li><a href="http://www.tmplab.org/wiki/index.php/Toxic_Gas_Sensor" target="_blank" rel="external">Gas Sensor</a></li>
+<li><a href="http://hackaday.com/2009/03/30/arduino-wii-nunchuck-servos/" target="_blank" rel="external">Nunchuck controller</a></li>
+<li><a href="http://www.ebay.de/itm/171316574649?_trksid=p2059210.m2749.l2649&amp;ssPageName=STRK%3AMEBIDX%3AIT" target="_blank" rel="external">Sensor box</a></li>
+</ul>
+]]></content>
+    
+    
+      <category term="meetup" scheme="http://munich-aug.de/tags/meetup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Meetup 1 - Arduino Basics]]></title>
+    <link href="http://munich-aug.de/2014/07/02/Meetup-1/"/>
+    <id>http://munich-aug.de/2014/07/02/Meetup-1/</id>
+    <published>2014-07-02T06:02:46.000Z</published>
+    <updated>2014-09-08T06:09:33.000Z</updated>
+    <content type="html"><![CDATA[<p>The slides of the first talk on Arduino are <a href="https://speakerdeck.com/mulderp/arduino-july-meetup" target="_blank" rel="external">here</a>.</p>
+<p>An email list was created: arduino-muc@googlegroups.com - on the email list, we can maybe extend some of the discussions about shops, links, books, etc.</p>
+<p>Agenda:</p>
+<p>In this first meetup, a kick off ideas for Arduino meetups was presented, and some start with basic demos.</p>
+<p>1) Welcome</p>
+<p>2) Show and Tell:  Discuss your latest Arduino experiences and projects</p>
+<p>3) Get ready Discuss/distribute parts, ordering of parts</p>
+<p>4) Tinkering time: Form small teams and get to play with Arduino</p>
+<p>If possible bring your own Arduino and parts. If you need something from the organizer, send me an email first: info@farsinotare.com.</p>
+<p>What you need to get started, software, hardware, how to let LEDs blinks and measure temperature, how to use a potentiometer.<br>Ideas are welcome to make the first meetup really fun.</p>
+]]></content>
+    
+    
+      <category term="meetup" scheme="http://munich-aug.de/tags/meetup/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Welcome!]]></title>
+    <link href="http://munich-aug.de/2014/07/01/welcome/"/>
+    <id>http://munich-aug.de/2014/07/01/welcome/</id>
+    <published>2014-07-01T08:07:24.000Z</published>
+    <updated>2014-09-08T06:05:19.000Z</updated>
+    <content type="html"><![CDATA[<p>The Munich Arduino meetup is for electronic hackers in and around Munich, that want to explore physical computing, environmental monitoring, music, light, interactions and more.</p>
+<p>We want to have a nice time by sharing and discussing ideas related to electronics and Arduino. The meetup can also help to network for building Arduino based products, or on finding a helping hand once in a while, when you are stuck.</p>
+<p>Membership is free and open for everyone.</p>
+<p>To support the meetup, you might want to join one or several hacker spaces in Munich (see <a href="/locations">locations</a>).</p>
+<p>We also want to play nicely with fellow meetups in Munich, such as:</p>
+<ul>
+<li><a href="http://www.meetup.com/IoTMunich/" target="_blank" rel="external">IoT Munich</a></li>
+<li><a href="http://www.meetup.com/Ultracode-Munich/" target="_blank" rel="external">Ultracode Munich</a></li>
+<li><a href="http://www.meetup.com/hardwaredotco-muenchen" target="_blank" rel="external">Munich Hardware.co</a></li>
+<li><a href="http://www.meetup.com/Munchen-robotics-enthusiasts/" target="_blank" rel="external">Munich Robots Enthusiasts</a></li>
+</ul>
+]]></content>
+    
+    
+  </entry>
+  
+</feed>

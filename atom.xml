@@ -4,7 +4,7 @@
   <subtitle><![CDATA[Electronic Tinkerer Club]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://munich-aug.de/"/>
-  <updated>2015-01-02T23:25:41.846Z</updated>
+  <updated>2015-01-15T15:54:36.783Z</updated>
   <id>http://munich-aug.de/</id>
   
   <author>
@@ -13,6 +13,32 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[January meetup]]></title>
+    <link href="http://munich-aug.de/2015/01/15/January-meetup/"/>
+    <id>http://munich-aug.de/2015/01/15/January-meetup/</id>
+    <published>2015-01-15T13:29:00.000Z</published>
+    <updated>2015-01-15T15:54:31.000Z</updated>
+    <content type="html"><![CDATA[<p>For <a href=",http://www.meetup.com/Munchen-Arduino-Meetup/events/219666917/">the first meetup of the year</a>  we were lucky to have a number of <a href="https://www.youtube.com/watch?v=n13odoXQYeo" target="_blank" rel="external">TI connected Launchpad boards</a> including some sensor boards (“Boosterpacks”). TI sponsored those to <a href="http://munichmakes.de" target="_blank" rel="external">MunichMakeS</a>.</p>
+<p>The goal of the TivaC platform is to enable IoT applications. The MPUs are mostly ARM based. The best <a href="http://www.ti.com/lsds/ti/microcontrollers_16-bit_32-bit/c2000_performance/control_automation/tm4c12x/overview.page" target="_blank" rel="external">TM4C123x based boards</a> had an impressive clock speed of 120 MHz.</p>
+<h1 id="First_contact">First contact</h1>
+<p>Some of the meetup members liked the sensor boards, even more than the network capabilites of the boards.  For example, there was a booster pack with Motion sensors which many tried out at first, and via serial communication, it was quickly possible to read out data from body motion.</p>
+<p>But we had a bit of problems too, the Wifi of the Makerspace was a bit shakey to maintain WLAN connection of many devices. So, the stopped at a bit the exploration into the IoT direction.</p>
+<p>Also, at least 50% of the meetup members are used to working with MacOS and/or Linux. While Energia supports those, some had problems with the Java version of Energia. For example, Marten had to downgrade his installed Java version.</p>
+<h1 id="Board_pinouts">Board pinouts</h1>
+<p>We had a bit trouble decyphering the pinouts of the boards. On one hand, this could be due to he many functions on the board. There are several push buttons mapped to pins, but not every input worked as expected compared to Arduino code. I found the header file: pins_energia.h very helpful to decode those. Also, the TMC4123x provides pull-up/pull-down input configurations, which are helpful, but it must be known where to look.</p>
+<p><img src="/images/pinout_tivac.png"></p>
+<h1 id="Conclusions">Conclusions</h1>
+<p>All in all, a very interesting hacking adventure. This meetup was certainly a bit more for advanced users. Some members borrowed a board for playing at home, and we are expecting to see more TivaC details soon.</p>
+<p>Please help us making the <a href="https://de.surveymonkey.com/r/MTZFLC8" target="_blank" rel="external">Arduino &amp; Co meetup better by answering again some questions in a survey</a>.</p>
+<p><img src="/images/jan_meetup.jpg"></p>
+]]></content>
+    
+    
+      <category term="meetup" scheme="http://munich-aug.de/tags/meetup/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Results from December Survey]]></title>
